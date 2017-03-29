@@ -1,0 +1,9 @@
+Thumbs.db
+.DS_Store
+.sass-cache
+node_modules
+
+#composer ignores
+composer.phar
+/public_html/**
+/vendor/**
